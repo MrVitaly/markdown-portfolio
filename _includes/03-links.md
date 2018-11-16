@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+######Links
+ - [GitHub](http://github.com)
+ - [training-kit](https://github.com/github/training-kit)
+ - [Line code](https://github.com/github/training-kit/blob/master/resources/learning-path/index.html#L32)
